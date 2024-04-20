@@ -1,4 +1,4 @@
-Fuel Consumption Prediction using Linear Regression**
+Fuel Consumption Prediction using Linear Regression
 
 **Description:**
 This project aims to predict fuel consumption using linear regression techniques. It utilizes a dataset containing various attributes such as engine size, number of cylinders, and fuel consumption in combined both city and highway. The dataset undergoes preprocessing steps including handling outliers and converting categorical variables to numerical format.
